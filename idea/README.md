@@ -1,6 +1,5 @@
 Project Name : Grocery app
                        
-Smartinternz Registerd Email id  : appradeep2001@gmail.com
-
+Smartinternz Registerd Email id  : hafsasadiya2003@gmail.com
                          	
-Demo Link: https://drive.google.com/file/d/1bp94_PgFZ4KTBlluYvvAgrAGICpPLbTR/view?usp=drivesdk
+Demo Link: https://drive.google.com/drive/folders/1SulgDjqVJQohC6DWexubA5vsa6vG5h3l?usp=sharing
